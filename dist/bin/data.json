@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "name": "tonglianMall",
+            "config": {
+                "ip": "39.105.51.218",
+                "pw": "Letmein01.",
+                "dir": "/fontendwatch",
+                "user": "root"
+            }
+        },
+        {
+            "name": "mall",
+            "config": {
+                "ip": "8.129.177.69",
+                "pw": "tianan@@##123...",
+                "dir": "/data/www/mall",
+                "user": "root"
+            }
+        }
+    ]
+}
